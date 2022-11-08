@@ -1,0 +1,43 @@
+<div class="flex1">
+
+                            <div class="text1">
+                                <div class="holder">   
+                                    <div class="n">
+                                        <h1>New</h1>
+                                    </div>
+                                </div>
+                
+                                <div class="head1">
+                                    <h3 class="ui">Hydrogen VS Electric Cars<h3>
+                                    <div class="cont1">
+                                    Will hydrogen-fueled cars ever catch up  <br> to EVs?
+                                    </div>
+                                </div>
+                
+                                <div class="hr">
+                                    <hr>
+                                </div>
+                                
+                                <div class="text2">
+                                    <div class="head2">
+                                        <h3 class="ui">The Downsides of AI Artistry</h3>
+                
+                                        <div class="cont2">
+                                            What are the possible adverse effects of <br> on-demand AI image generation?
+                                        </div>
+                                    </div>
+                                    <div class="hr">
+                                        <hr>
+                                    </div>
+                                    <div class="text3">
+                                        <div class="head3">
+                                            <h3 class="ui">Is VC Funding Drying Up?</h3>
+                                
+                                            <div class="cont3">
+                                                Private funding by VC firms is down 50% YOY. We take a look at what that means.       
+                                            </div>
+                                    </div>
+                                </div>
+                                
+                                </div>
+                            </div>
