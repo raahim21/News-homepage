@@ -30,6 +30,15 @@ nav ul li a:hover{
     cursor: pointer;
 }
 
+.slidr-head:hover{
+    color: hsl(5, 85%, 63%);
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(240, 100%, 5%);
+    animation: 0.9 ease-in;
+}
+
 .heading:hover{
     color: hsl(35, 77%, 62%);
     cursor: pointer;
