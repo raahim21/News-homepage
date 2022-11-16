@@ -25,6 +25,15 @@ nav ul {
 nav ul li{
     padding: 15px 0 0 40px;
 }
+nav ul li a:hover{
+     color: hsl(35, 77%, 62%);
+    cursor: pointer;
+}
+
+.heading:hover{
+    color: hsl(35, 77%, 62%);
+    cursor: pointer;
+}
 nav ul li a{
     color: hsl(240, 100%, 5%);
     text-decoration: none;
