@@ -6,15 +6,18 @@
 
 nav{
     height: 120px;
-    width: 88vw;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 }
-.dabew{
+/* .dabew{
     position: relative;
     top: 60px;
     left: 147px;
     font-size: 45px;
     display: inline;
-}
+} */
 
 nav ul {
     display: flex;
@@ -192,8 +195,8 @@ hr{
 
 .items{
     display: flex;
-    margin-top: 22px;
-    width: 25%;
+    margin: 1.5rem 0 1rem 0;
+    width: 30%;
 }
 
 .slidr-con{
@@ -274,6 +277,9 @@ hr{
         flex-direction: column;
 
     }
+    .main1{
+        width: 100%;
+    }
 
     .slidr-txt{
         margin-inline: -18px;
@@ -291,6 +297,9 @@ hr{
 
 @media screen and (max-width: 909px){
 
+    body{
+        overflow-x: hidden;
+    }
     nav{
         width: 98vw;
     }
